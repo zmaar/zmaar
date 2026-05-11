@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<!-- 这是一个简单的示例 -->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
 <!--
 **zmaar/zmaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
