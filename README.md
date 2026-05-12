@@ -120,7 +120,7 @@
 > 設定方式：使用 [Platane/snk](https://github.com/Platane/snk) 的 GitHub Action，每次 push 自動生成新的蛇圖。
 
 ---
-![Commit Invaders](https://raw.githubusercontent.com/你的用户名/你的用户名/output/commit-invaders.svg)
+![Commit Invaders](https://raw.githubusercontent.com/zmaar/zmaar/output/commit-invaders.svg)
 
 ### 🤝 歡迎交流 | Let's Connect!
 
