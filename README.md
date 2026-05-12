@@ -63,19 +63,19 @@
 
 <p align="center">
   <a href="https://github.com/your-username/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project1&theme=tokyonight&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zmaar&repo=project1&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/your-username/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project2&theme=tokyonight&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zmaar&repo=project2&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/your-username/project3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project3&theme=tokyonight&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zmaar&repo=project3&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/your-username/project4">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project4&theme=tokyonight&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zmaar&repo=project4&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -109,23 +109,12 @@
 
 ---
 
-### 🐍 貢獻蛇圖 (動畫)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
-</picture>
-
-> 設定方式：使用 [Platane/snk](https://github.com/Platane/snk) 的 GitHub Action，每次 push 自動生成新的蛇圖。
-
----
+###  貢獻圖 
 ![Commit Invaders](https://raw.githubusercontent.com/zmaar/zmaar/output/commit-invaders.svg)
+---
 
 ### 🤝 歡迎交流 | Let's Connect!
 
-我很樂意與你討論 AI、開源專案或任何有趣的合作機會。  
-求職中，特別歡迎 **2026 夏季實習 / 正職推薦** 🙌  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
